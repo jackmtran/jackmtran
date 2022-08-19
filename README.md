@@ -14,7 +14,7 @@ An Instagram clone for users to share their photos with their followers.
 A message board where users can share thier opinion on metas of various videogames 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmtran&layout=compact)](https://github.com/vernyoonchao98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmtran&layout=compact)](https://github.com/jackmtran/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackmtran&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ## Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
