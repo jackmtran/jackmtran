@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 I'm Jack Tran. My pronouns are he/him.
-I am a problem solver who is great working with the finer details.  I am very experience working in a team and always willing to fill in the gaps. Although I am a full stack software engineer, I have a passion for front-end development. 
+I am a problem solver who is great working with the finer details.  I am very experienced working in a team and always willing to fill in the gaps. Although I am a full stack software engineer, I have a passion for front-end development. 
 I have experience building dynamic web applications in HTML, JavaScript, Python, React, Flask, Express.js, Node.js, and PostgreSQL.
 
 <a href="https://twttrapp.herokuapp.com/">Twttr</a>
