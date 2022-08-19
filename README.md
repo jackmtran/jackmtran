@@ -5,7 +5,7 @@ I am a problem solver who is great working with the finer details.  I am very ex
 I have experience building dynamic web applications in HTML, JavaScript, Python, React, Flask, Express.js, Node.js, and PostgreSQL.
 
 <a href="https://twttrapp.herokuapp.com/">Twttr</a>
-A Twttr clone for users to share their tweets and replies.
+A Twitter clone for users to share their tweets and replies.
 
 <a href="https://polagrampython.herokuapp.com/%22%3EPolagram">Polagram</a> 
 An Instagram clone for users to share their photos with their followers.
