@@ -7,10 +7,10 @@ I have experience building dynamic web applications in HTML, JavaScript, Python,
 <a href="https://twttrapp.herokuapp.com/">Twttr</a>
 A Twttr clone for users to share their tweets and replies.
 
-<a href="https://polagrampython.herokuapp.com/%22%3EPolagram>Polagram</a> 
+<a href="https://polagrampython.herokuapp.com/%22%3EPolagram">Polagram</a> 
 An Instagram clone for users to share their photos with their followers.
 
-<a href="https://metaoverflow.herokuapp.com/%22%3EMetaoverflow>MetaOverflow</a> 
+<a href="https://metaoverflow.herokuapp.com/%22%3EMetaoverflow">MetaOverflow</a> 
 A message board where users can share thier opinion on metas of various videogames 
 
 
